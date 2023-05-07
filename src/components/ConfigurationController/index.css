@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.configure {
+  background-color: #475569;
+  color: white;
+  padding: 5px;
+}
+.items {
+  margin-left: 25px;
+  padding: 15px;
+}

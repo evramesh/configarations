@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.left {
+  background-color: #e2e8f0;
+  margin: 5px;
+  padding: 10px;
+}
+.li {
+  list-style: none;
+}
+.content {
+  background-color: #f1f5f9;
+  padding: 10px;
+  margin: 5px;
+}
+.body {
+  display: flex;
+}
+.ad {
+  border: 2px solid #64748b;
+  padding: 10px;
+}
